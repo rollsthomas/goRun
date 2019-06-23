@@ -1,0 +1,22 @@
+{
+  "name": "gorun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rollsthomas/goRun.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rollsthomas/goRun/issues"
+  },
+  "homepage": "https://github.com/rollsthomas/goRun#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
